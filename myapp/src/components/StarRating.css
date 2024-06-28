@@ -1,0 +1,25 @@
+.star-rating {
+    display: flex;
+  }
+  
+  .star-rating svg {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+  }
+  
+  .review-page {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .review {
+    margin-bottom: 20px;
+    border: 1px solid #e4e5e9;
+    padding: 10px;
+  }
+  
+  .review p {
+    margin: 0;
+  }
+  
